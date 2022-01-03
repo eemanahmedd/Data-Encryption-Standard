@@ -1,6 +1,6 @@
 # Data-Encryption-Standard
 
-DES is the most widely used encryption scheme. It is a **block cipher** algorithm. The plaintext is processed in 64-bit blocks, and the key is 56-bits in length; generated orignally from * 64-bits *.
+DES is the most widely used encryption scheme. It is a **block cipher** algorithm. The plaintext is processed in 64-bit blocks, and the key is 56-bits in length; generated orignally from _64-bits _.
 
 Since it’s a symmetric-key algorithm, it employs the same key in both encrypting and decrypting the data. 
 
