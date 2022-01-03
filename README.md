@@ -23,5 +23,4 @@ The encryption process step (step 4, above) is further broken down into five sta
 - P-Box permutation
 - XOR and swap
 
-_**For decryption, we use the same algorithm, and we reverse the order of the 16 round keys.**
-_
+***For decryption, we use the same algorithm, and we reverse the order of the 16 round keys.***
